@@ -1,5 +1,5 @@
 name:                base-noprelude
-version:             4.7.0.0
+version:             4.7.0.0.100
 synopsis:            base package omitting the "Prelude" module
 homepage:            https://github.com/hvr/base-noprelude
 license:             BSD3
