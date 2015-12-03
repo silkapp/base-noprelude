@@ -1,3 +1,2 @@
- {-# LANGUAGE PackageImports #-}
-  module Text.Show.Functions (module M) where
-  import "base" Text.Show.Functions as M
+-- Leave this module blank since it's TERRIBLE
+module Text.Show.Functions () where
